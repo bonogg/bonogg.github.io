@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guido Bongioanni / Site Title"
+title                    : "Guido Bongioanni"
 title_separator          : "-"
 name                     : &name "Guido Bongioanni"
 description              : &description "Hi! I am a PhD student at the European University Institute, in Fiesole. I am interested in macroeconomics, networks and IO. In the a.y. 2022-2023 I organize the Macro Working Group."
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
