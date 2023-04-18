@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV Here](https://gbongioanni.github.io/files/Guido_Bongioanni_CV.pdf)
+
+<!--
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics and Business, Università degli Studi di Torino, 2018
+* M.S. in Economics, Barcelona School of Economics, 2019
+* Ph.D in Economics, European University Institute, (ongoing)
 
 Work experience
 ======
@@ -57,3 +60,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+>
