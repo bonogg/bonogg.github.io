@@ -5,7 +5,7 @@ permalink: /contacts/
 author_profile: true
 ---
 
-## Guido Bongioanni  
+## Address  
 European University Institute  
 Department of Economics  
 Via delle Fontanelle 18  
