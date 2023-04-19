@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am  PhD Economics Student at the European University Institute. My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/).
-My research interests lie in between Macroeconomics and Industrial Organization that leverage networks as a lens to provide a better understanding on economic problems.
+My research interests lie in between Macroeconomics and Industrial Organization, using tools from the networks literature.
 
 Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Business School for [Carles Vergara](https://www.iese.edu/faculty-research/faculty/carles-vergara/) and [Núria Mas](https://www.iese.edu/faculty-research/faculty/nuria-mas/). 
 
