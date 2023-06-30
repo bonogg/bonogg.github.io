@@ -11,6 +11,6 @@ Department of Economics
 Via delle Fontanelle 18  
 50014 Fiesole  
   
-**Email:** [guido.bongioanni@eui.com](guido.bongioanni@eui.eu)  
+**Email:** [guido.bongioanni@eui.eu](guido.bongioanni@eui.eu)
 **Github:** [https://github.com/bonogg](https://github.com/bonogg)  
 **Twitter:** [twitter.com/bonogg](https://twitter.com/bonogg)  
