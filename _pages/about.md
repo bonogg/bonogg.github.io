@@ -15,6 +15,25 @@ Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Bus
 
 You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf).
 
+### Research
+Hopefully, coming soon...
+
+![mumble](https://www.varinipublishing.com/wp-content/uploads/2012/01/mumble.jpg)
+
+
+### Contacts
+
+You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000.
+## Address  
+European University Institute  
+Department of Economics  
+Via delle Fontanelle 18  
+50014 Fiesole  
+  
+**Email:** [guido.bongioanni@eui.eu](guido.bongioanni@eui.eu)
+**Github:** [https://github.com/bonogg](https://github.com/bonogg)  
+**Twitter:** [twitter.com/bonogg](https://twitter.com/bonogg)  
+
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub # pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) # created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a # dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown # files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at # [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 A data-driven personal website
