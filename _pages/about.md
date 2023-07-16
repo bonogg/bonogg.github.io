@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+### Hello there, I am Guido!
 I am a second year PhD Economics Student at the European University Institute. My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/).
 My research interests lie in between Macroeconomics and Industrial Organization, using tools from the networks literature.
 
@@ -22,7 +22,6 @@ Hopefully, coming soon...
 
 
 # Contacts
-
 You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000.
 ### Address  
 European University Institute  
