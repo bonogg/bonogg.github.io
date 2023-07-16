@@ -15,16 +15,16 @@ Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Bus
 
 You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf).
 
-### Research
+# Research
 Hopefully, coming soon...
 
 ![mumble](https://www.varinipublishing.com/wp-content/uploads/2012/01/mumble.jpg)
 
 
-### Contacts
+# Contacts
 
 You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000.
-## Address  
+### Address  
 European University Institute  
 Department of Economics  
 Via delle Fontanelle 18  
