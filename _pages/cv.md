@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf)
+[Download CV here](https://guidobongioanni.github.io/files/Guido_Bongioanni_CV.pdf)
 
 <!---
  Education
