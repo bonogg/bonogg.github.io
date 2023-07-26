@@ -7,6 +7,10 @@
 # good guide for MD: https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 # Site Settings
+
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 locale                   : "en-US"
 title                    : "Guido Bongioanni"
 title_separator          : "-"
@@ -30,7 +34,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : #"light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -137,6 +141,7 @@ exclude:
   - LICENSE
   - README
   - Rakefile
+  - assets
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -266,6 +271,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
