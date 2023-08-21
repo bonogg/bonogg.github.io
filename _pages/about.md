@@ -22,7 +22,7 @@ Hopefully, coming soon...
 
 
 # Contacts
-You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000.
+You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, ~and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000~.
 ### Address  
 European University Institute  
 Department of Economics  
