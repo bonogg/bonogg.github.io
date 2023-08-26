@@ -17,11 +17,13 @@ You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioan
 
 # Work in Progress
 **"Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"** *(with Bruno Pellegrino)*
+<span style="font-size: 80%;">Presentations: 27th Sioe Annual Meeting 2023</span>
+
 
 **"Sectoral Policies in the EU"** *(with Tuna Dökmeci)*
 
 # Contacts
-You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, ~and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000~.
+You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, ~~and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000~~.
 ### Address  
 European University Institute  
 Department of Economics  
