@@ -17,6 +17,7 @@ You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioan
 
 # Work in Progress
 **"Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"** *(with Bruno Pellegrino)*
+
 <span style="font-size: 80%;">Presentations: 27th Sioe Annual Meeting 2023</span>
 
 
