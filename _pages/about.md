@@ -16,13 +16,9 @@ Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Bus
 You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioanni_CV.pdf).
 
 # Work in Progress
-### "Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"### *(with Bruno Pellegrino)*
+**"Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"** *(with Bruno Pellegrino)*
 
-### "Sectoral Policies in the EU"### *(with Tuna Dökmeci)*
-
-
-![mumble](https://www.varinipublishing.com/wp-content/uploads/2012/01/mumble.jpg)
-
+**"Sectoral Policies in the EU"** *(with Tuna Dökmeci)*
 
 # Contacts
 You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, ~and how to cope with the fact that Jannik Sinner has not yet won an ATP Masters 1000~.
