@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### Hello there, I am Guido!
-I am a second year PhD Economics Student at the European University Institute. My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/).
+I am a second-year PhD Economics Student at the European University Institute. My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/).
 My research interests lie in between Macroeconomics and Industrial Organization, using tools from the networks literature.
 
 Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Business School for [Carles Vergara](https://www.iese.edu/faculty-research/faculty/carles-vergara/) and [Núria Mas](https://www.iese.edu/faculty-research/faculty/nuria-mas/).
@@ -17,7 +17,7 @@ You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioan
 
 # Work in Progress
 **"Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"** *(with Bruno Pellegrino)*  
-<span style="font-size: 80%;">Presentations: 27th Sioe Annual Meeting 2023</span>
+<span style="font-size: 80%;">Presentations: 27th SIOE Annual Meeting 2023</span>
 
 
 **"Sectoral Policies in the EU"** *(with Tuna Dökmeci)*
