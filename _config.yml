@@ -80,7 +80,8 @@ analytics:
   google:
     tracking_id          :
 
-
+# theme
+theme: minima
 # Site Author
 author:
   name             : "Guido Bongioanni"
