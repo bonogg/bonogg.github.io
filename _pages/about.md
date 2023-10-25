@@ -31,7 +31,7 @@ Via delle Fontanelle 18
 50014 Fiesole  
   
 **Email:** [guido.bongioanni@eui.eu](guido.bongioanni@eui.eu)\
-**Github:** [https://github.com/guidobongioanni](https://github.com/guidobongioanni)\
+**Github:** [https://github.com/guidobongioanni](https://github.com/bonogg)\
 **Twitter:** [twitter.com/bonogg](https://twitter.com/bonogg)  
 
 <!---
