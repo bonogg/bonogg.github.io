@@ -16,7 +16,7 @@ Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Bus
 You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioanni_CV.pdf).
 
 # Work in Progress
-**"Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"** *(with Bruno Pellegrino)*  
+**"Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/#h.19mwcf5w13ul))*  
 <span style="font-size: 80%;">Presentations: 27th SIOE Annual Meeting 2023</span>
 
 
