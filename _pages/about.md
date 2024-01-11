@@ -16,11 +16,11 @@ Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Bus
 You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioanni_CV.pdf).
 
 # Work in Progress
-**"Crushing the Competition: the Product Market Effects of Relative Performance Evaluation"** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*  
+**Friends and Foes: Executive Pay Networks and Product Market Competition** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*  
 <span style="font-size: 80%;">Presentations: 27th SIOE Annual Meeting 2023</span>
 
 
-**"Sectoral Policies in the EU"** *(with Tuna Dökmeci)*
+**Sectoral Policies in the EU** *(with Tuna Dökmeci)*
 
 # Contacts
 You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, and how to cope with the fact that Jannik Sinner has not yet won ~~an ATP Masters 1000~~ a Slam.
