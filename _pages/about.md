@@ -17,8 +17,8 @@ You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioan
 
 # Work in Progress
 **Friends and Foes: Executive Pay Networks and Product Market Competition** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*  
-<span style="font-size: 80%;">Presentations: 27th SIOE Annual Meeting 2023</span>
-
+<span style="font-size: 70%;">Presentations: 27th SIOE Annual Meeting 2023</span>  
+<span style="font-size: 85%;">Certain features of executive pay, such as Relative Performance Evaluation (RPE), embed incentives for managers to alter the competitive behavior of firms. RPE incentivizes managers to hurt peers' profits, while interlocking directorates lead to softer competition among product market rivals. These incentives create an intricate network of 'friends and foes' relationships among corporations. In this study, we map this network comprehensively for the first time for the universe of US public firms, by processing highly-unstructured data from tens of thousands of executive compensation packages. We embed these incentives into a general equilibrium model of oligopoly with GHL demand and realistic managerial objectives. We then use our model to quantify the influence of these incentives on individual firm supply decisions, markups, allocative efficiency, and consumer welfare.</span>
 
 **Sectoral Policies in the EU** *(with Tuna Dökmeci)*
 
