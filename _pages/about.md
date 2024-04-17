@@ -13,7 +13,7 @@ My research interests lie in between Macroeconomics and Industrial Organization,
 
 Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Business School for [Carles Vergara](https://www.iese.edu/faculty-research/faculty/carles-vergara/) and [Núria Mas](https://www.iese.edu/faculty-research/faculty/nuria-mas/).
 
-You can find my [CV here](https://guidobongioanni.github.io/files/Guido_Bongioanni_CV.pdf).
+You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf).
 
 # Work in Progress
 **Friends and Foes: Executive Pay Networks and Product Market Competition** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*  
