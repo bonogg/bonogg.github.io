@@ -17,7 +17,7 @@ You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf
 
 # Work in Progress
 **Crushing the Competition: the Pro-Competitive Effects of Relative Performance Evaluation** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*  
-<span style="font-size: 70%;">Presentations: 27th SIOE Annual Meeting 2023</span>  
+<span style="font-size: 70%;">Presentations: 27th SIOE Annual Meeting 2023, UChicago Stigler Center Affiliate Conference</span>  
 <span style="font-size: 85%;">Relative Performance Evaluation (RPE) is a common feature of executive compensation contracts that is used to incentivize managerial effort. A side effect of RPE that is lesser-known (yet trivial to prove theoretically) is to alter product market conduct, as it provides a motive for managers to hurt competitors' profits rather than pursue the maximization of their own firm's profits. To quantify these effects, we build a general equilibrium model of oligopoly with GHL demand and ultra-realistic managerial incentives. In our model, the pro-competitive effects of RPE increase with the assortativity between the network of product rivalries and the network of RPE benchmarking relationships. To construct the latter, we undertake a massive data analysis effort to process highly-unstructured data from over 15,000 executive compensation contracts. We then use our model to quantify, firm-by-firm, the effect of RPE on the firm's supply decisions, allocative efficiency and consumer welfare.</span>
 
 **Sectoral Policies in the EU** *(with Tuna Dökmeci)*
