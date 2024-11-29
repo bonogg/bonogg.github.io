@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### Hello there, I am Guido!
 I am a fourth year PhD Economics student at the European University Institute. My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/).
-My research interests are in macroeconomics, firm dynamics, and economic networks.
+My research interests is in macroeconomics, more specifically in studying the behavior of firms and workers from different perspectives.
 
 Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Business School for [Carles Vergara](https://www.iese.edu/faculty-research/faculty/carles-vergara/) and [Núria Mas](https://www.iese.edu/faculty-research/faculty/nuria-mas/).
 
