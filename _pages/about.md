@@ -9,23 +9,19 @@ redirect_from:
 ---
 ### Hello there, I am Guido!
 I am a fourth year PhD Economics student at the European University Institute. My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/).
-My research interests is in macroeconomics, more specifically in studying the behavior of firms and workers from different perspectives.
+My research interests is in macroeconomics, with a focus on the behavior of firms and workers.
 
 Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Business School for [Carles Vergara](https://www.iese.edu/faculty-research/faculty/carles-vergara/) and [Núria Mas](https://www.iese.edu/faculty-research/faculty/nuria-mas/).
 
 You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf).
 
 # Work in Progress
-**Crushing the Competition: the Pro-Competitive Effects of Relative Performance Evaluation** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*  
-<span style="font-size: 70%;">Presentations: 27th SIOE Annual Meeting 2023, UChicago Stigler Center Affiliate Conference</span>  
+**Crushing the Competition: the Pro-Competitive Effects of Relative Performance Evaluation** *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*
 <span style="font-size: 85%;">Relative Performance Evaluation (RPE) is a common feature of executive compensation contracts that is used to incentivize managerial effort. A side effect of RPE that is lesser-known (yet trivial to prove theoretically) is to alter product market conduct, as it provides a motive for managers to hurt competitors' profits rather than pursue the maximization of their own firm's profits. To quantify these effects, we build a general equilibrium model of oligopoly with GHL demand and ultra-realistic managerial incentives. In our model, the pro-competitive effects of RPE increase with the assortativity between the network of product rivalries and the network of RPE benchmarking relationships. To construct the latter, we undertake a massive data analysis effort to process highly-unstructured data from over 15,000 executive compensation contracts. We then use our model to quantify, firm-by-firm, the effect of RPE on the firm's supply decisions, allocative efficiency and consumer welfare.</span>
-
-**Sectoral Policies in the EU** *(with Tuna Dökmeci)*
-
-<span style="font-size: 85%;">Key idea: study what happens when in an economic union, countries implement industrial policies at the national level. Is there scope for improvement?</span>
+<span style="font-size: 70%;">Presentations: SIOE 2023, UChicago Stigler Center Affiliate Conference, EUI, Rice Brownbag, SED 2025 (scheduled), SEA 2025 (scheduled)</span>
 
 # Contacts
-You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school, and how to cope with the fact that Jannik Sinner has not yet won ~~an ATP Masters 1000~~, ~~a Slam~~, ~~two Slams (hopefully also this pun will last very little but now it turned into a tradition)~~.
+You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school.
 ### Address  
 European University Institute  
 Department of Economics  
