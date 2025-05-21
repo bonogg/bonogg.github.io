@@ -20,7 +20,7 @@ You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf
 
 <span style="font-size: 85%;">Relative Performance Evaluation (RPE) is a common feature of executive compensation contracts that is used to incentivize managerial effort. A side effect of RPE that is lesser-known (yet trivial to prove theoretically) is to alter product market conduct, as it provides a motive for managers to hurt competitors' profits rather than pursue the maximization of their own firm's profits. To quantify these effects, we build a general equilibrium model of oligopoly with GHL demand and ultra-realistic managerial incentives. In our model, the pro-competitive effects of RPE increase with the assortativity between the network of product rivalries and the network of RPE benchmarking relationships. To construct the latter, we undertake a massive data analysis effort to process highly-unstructured data from over 15,000 executive compensation contracts. We then use our model to quantify, firm-by-firm, the effect of RPE on the firm's supply decisions, allocative efficiency and consumer welfare.</span>
 
-<span style="font-size: 75%;">Presentations: SIOE 2023, UChicago Stigler Center Affiliate Conference, EUI, Rice Brownbag, Oligo Workshop 2025 (scheduled), SED 2025 (scheduled), SEA 2025 (scheduled)</span>
+<span style="font-size: 75%;">Presentations: SIOE 2023, UChicago Stigler Center Affiliate Conference, EUI, Rice Brownbag, Oligo Workshop 2025 (scheduled), CICM 2025 (scheduled), SED 2025 (scheduled), SEA 2025 (scheduled)</span>
 
 # Contacts
 You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school.
