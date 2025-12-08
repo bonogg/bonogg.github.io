@@ -22,6 +22,11 @@ You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf
 
 <span style="font-size: 75%;">Presentations: SIOE 2023, UChicago Stigler Center Affiliate Conference, EUI, Rice Brownbag, Oligo Workshop 2025, CICM 2025, SED 2025, SEA 2025 (scheduled)</span>
 
+
+**Game, Set and Match: Playing, Learning, and Retiring in Professional Tennis** *(with [Christopher J. Flinn]() and [Pietro Garibaldi](https://sites.carloalberto.org/garibaldi/))*
+
+<span style="font-size: 85%;">This paper investigates the timing of retirement in high-intensity occupations where performance signals are noisy, and agents must learn about their latent ability. Using a rich monthly panel of over 10,000 professional tennis players from 2000 to 2021, we characterize the relationship between performance trajectories and career exits. We document three robust stylized facts: (1) careers are generally short—with a median duration of three years—and highly right-skewed; (2) players typically retire following a decline from their peak performance rather than at the peak; and (3) career length is positively correlated with peak ability. Survival analysis reveals substantial heterogeneity, where lower-ranked players exit rapidly while elite players sustain careers into their thirties. These patterns suggest that retirement decisions are driven significantly by an information-updating process regarding competitive fit, distinct from pure age-related physical decline.</span>
+
 # Contacts
 You can find me at the following contacts. I am happy to connect and talk about research, collaborations, grad school.
 ### Address  
