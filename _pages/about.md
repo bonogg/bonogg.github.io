@@ -17,7 +17,7 @@ You can find my [CV here](https://bonogg.github.io/files/Guido_Bongioanni_CV.pdf
 
 # Working Papers
 <strong>
-  <a href="/files/rpe-paper.pdf" target="_blank" rel="noopener">
+  <a href="/files/Gladius_draft_0319.pdf" target="_blank" rel="noopener">
     Crushing the Competition: the Pro-Competitive Effects of Relative Performance Evaluation
   </a>
 </strong> *(with [Bruno Pellegrino](https://www.brunopellegrino.com/) and [Shihan Shen](https://www.shihan-shen.com/))*
