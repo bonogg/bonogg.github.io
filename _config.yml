@@ -1,24 +1,22 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Guido Bongioanni
+position: Ph.D. Student in Economics
+affiliation: European University Institute
+email: guido.bongioanni (at) eui.eu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: economics, macroeconomics, market power, executive compensation, relative performance evaluation
+description: Guido Bongioanni is a Ph.D. student in Economics at the European University Institute, working on macroeconomics, market power, and firm behavior.
 url: "https://bonogg.github.io"
 baseurl: ""
 canonical: "https://bonogg.github.io/"
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+cv_link: files/Guido_Bongioanni_CV.pdf
+github_link: https://github.com/bonogg
+twitter: https://twitter.com/bonogg
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
