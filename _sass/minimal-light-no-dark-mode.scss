@@ -86,7 +86,7 @@ html {
   background-color:#000}
 
 email {
-    font-size: 0.875rem;
+    font-size: calc(0.875rem / 0.65);
     font-family: "Ubuntu Mono";
 }
 
@@ -121,6 +121,7 @@ email {
 
 autocolor{
   color:#595959;
+  font-size: calc(1rem / 0.65);
 }
 
 lightonly {
