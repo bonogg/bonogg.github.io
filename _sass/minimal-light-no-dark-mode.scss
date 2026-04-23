@@ -6,6 +6,10 @@ html {
   font-size: 112.5%;
 }
 
+:root {
+  --profile-text-shrink-factor: 0.65;
+}
+
 .social-icons a{
   display:inline-block;
   height:2.4rem;
@@ -85,8 +89,12 @@ html {
 .github span{
   background-color:#000}
 
+position {
+    font-size: calc(0.98rem / var(--profile-text-shrink-factor));
+}
+
 email {
-    font-size: 0.875rem;
+    font-size: calc(0.875rem / var(--profile-text-shrink-factor));
     font-family: "Ubuntu Mono";
 }
 
@@ -121,6 +129,7 @@ email {
 
 autocolor{
   color:#595959;
+  font-size: calc(1rem / var(--profile-text-shrink-factor));
 }
 
 lightonly {
