@@ -6,10 +6,6 @@ html {
   font-size: 112.5%;
 }
 
-:root {
-  --profile-text-shrink-factor: 0.65;
-}
-
 .social-icons a{
   display:inline-block;
   height:2.4rem;
@@ -112,11 +108,11 @@ html {
   background-color:#000}
 
 position {
-    font-size: calc(0.98rem / var(--profile-text-shrink-factor));
+    font-size: 0.98rem;
 }
 
 email {
-    font-size: calc(0.875rem / var(--profile-text-shrink-factor));
+    font-size: 0.875rem;
     font-family: "Ubuntu Mono";
 }
 
@@ -151,7 +147,7 @@ email {
 
 autocolor{
   color:#595959;
-  font-size: calc(1rem / var(--profile-text-shrink-factor));
+  font-size: 1rem;
 }
 
 lightonly {
@@ -449,7 +445,7 @@ section {
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
-  font-size: 200%;
+  font-size: 150%;
 }
 
 small {
