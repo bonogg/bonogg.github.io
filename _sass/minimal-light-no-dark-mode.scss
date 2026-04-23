@@ -2,6 +2,10 @@
   display: flex; 
   align-items: center;}
 
+html {
+  font-size: 150%;
+}
+
 .social-icons a{
   display:inline-block;
   height:2.4rem;
@@ -82,7 +86,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 0.875rem;
     font-family: "Ubuntu Mono";
 }
 
@@ -209,7 +213,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:1.75rem;
 }
 
 a {
@@ -222,7 +226,7 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size:0.6875rem;
   color:#777;
   margin-top:-0.3em;
   display:block;
@@ -320,7 +324,7 @@ header li:last-child a {
 
 header ul a {
   line-height:1;
-  font-size:11px;
+  font-size:0.6875rem;
   color:#999;
   display:block;
   text-align:center;
@@ -347,7 +351,7 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-size:14px;
+  font-size:0.875rem;
   display:block;
   color:#222;
 }
@@ -360,7 +364,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:0.6875rem;
 }
 
 hr {
@@ -493,7 +497,7 @@ footer {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:18pt;
     color:#444;
   }
 }
