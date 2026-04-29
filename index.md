@@ -6,7 +6,7 @@ layout: homepage
 
 I am a fifth-year PhD Economics student at the [European University Institute](https://www.eui.eu/). My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/). I am currently working as an Intern at the OECD [Competition Division](https://www.oecd.org/en/topics/competition.html) (Directorate of Financial and Enterprise Affairs).
 
-My research interests are in macroeconomics, with a focus on market power and the behavior of firms and workers.
+My interests are at the intersection of IO and Labor Economics. My secondary interests are in economic networks and industrial policy.
 
 In April 2025 I co-founded [Alleanza per Torino](https://www.alleanzapertorino.it/chi-siamo/), with other fellow Turin citizens. Alleanza per Torino is a think tank focused on stimulating debate and advancing proposals for Turin's growth.
 
