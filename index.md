@@ -1,28 +1,49 @@
 ---
 layout: homepage
+title: Home
 ---
 
-## About Me
+<section class="home-section" id="research" aria-labelledby="research-heading">
+  <p class="eyebrow">Research</p>
+  <h2 id="research-heading">Working papers</h2>
 
-I am a fifth-year PhD Economics student at the [European University Institute](https://www.eui.eu/). My advisors are [Russell Cooper](https://sites.google.com/site/coopereconomics/) and [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/). I am currently working as an Intern at the OECD [Competition Division](https://www.oecd.org/en/topics/competition.html) (Directorate of Financial and Enterprise Affairs).
+  {% include publications.md %}
 
-My interests are at the intersection of IO and Labor Economics. My secondary interests are in economic networks and industrial policy.
+  <div class="section-divider"></div>
 
-In April 2025 I co-founded [Alleanza per Torino](https://www.alleanzapertorino.it/chi-siamo/), with other fellow Turin citizens. Alleanza per Torino is a think tank focused on stimulating debate and advancing proposals for Turin's growth.
+  <h3>Work in progress</h3>
 
-Before joining the EUI I worked as a pre-doctoral Research Assistant at IESE Business School for [Carles Vergara](https://www.iese.edu/faculty-research/faculty/carles-vergara/) and [Núria Mas](https://www.iese.edu/faculty-research/faculty/nuria-mas/).
+  <article class="work-in-progress">
+    <h4>Game, Set and Match: Playing, Learning, and Retiring in Professional Tennis</h4>
+    <p><em>With <a href="https://sites.google.com/view/cjflinn-homepage" target="_blank" rel="noopener">Christopher J. Flinn</a> and <a href="https://sites.carloalberto.org/garibaldi/" target="_blank" rel="noopener">Pietro Garibaldi</a>.</em></p>
+    <p>This paper investigates the timing of retirement in high-intensity occupations where performance signals are noisy and agents must learn about their latent ability. Using a rich monthly panel of more than 10,000 professional tennis players from 2000 to 2021, we characterize the relationship between performance trajectories and career exits. We document three robust facts: careers are generally short and highly right-skewed; players typically retire after a decline from their peak performance rather than at the peak; and career length is positively correlated with peak ability. Survival analysis reveals substantial heterogeneity, with lower-ranked players exiting rapidly while elite players sustain careers into their thirties. These patterns suggest that retirement decisions are driven significantly by information updating about competitive fit, distinct from purely age-related physical decline.</p>
+  </article>
+</section>
 
-{% include_relative _includes/publications.md %}
+<section class="home-section" id="policy-media" aria-labelledby="policy-heading">
+  <p class="eyebrow">Policy &amp; media</p>
+  <h2 id="policy-heading">Public-facing work</h2>
 
-## Work in Progress
+  <ul class="featured-links">
+    <li>
+      <span>April 2026</span>
+      <a href="https://www.alleanzapertorino.it/wp-content/uploads/2026/04/APT_UniversitaWhiteBook_WEB.pdf" target="_blank" rel="noopener">White Book with Alleanza per Torino on Turin as a University City <span aria-hidden="true">↗</span></a>
+    </li>
+    <li>
+      <span>February 2018</span>
+      <a href="https://www.ilsole24ore.com/art/hackitalia-vincitori-ma-e-incentivi-l-industria-40-AEWC8O6D" target="_blank" rel="noopener">Tackling Italy's productivity slowdown <em>(Il Sole 24 Ore)</em> <span aria-hidden="true">↗</span></a>
+    </li>
+  </ul>
+</section>
 
-- **Game, Set and Match: Playing, Learning, and Retiring in Professional Tennis (draft coming soon)** *(with [Christopher J. Flinn](https://sites.google.com/view/cjflinn-homepage) and [Pietro Garibaldi](https://sites.carloalberto.org/garibaldi/))*
+<section class="home-section" id="contact" aria-labelledby="contact-heading">
+  <p class="eyebrow">Contact</p>
+  <h2 id="contact-heading">Get in touch</h2>
 
-  <span style="font-size: 85%; display: block; text-align: justify;">This paper investigates the timing of retirement in high-intensity occupations where performance signals are noisy, and agents must learn about their latent ability. Using a rich monthly panel of over 10,000 professional tennis players from 2000 to 2021, we characterize the relationship between performance trajectories and career exits. We document three robust stylized facts: (1) careers are generally short—with a median duration of three years—and highly right-skewed; (2) players typically retire following a decline from their peak performance rather than at the peak; and (3) career length is positively correlated with peak ability. Survival analysis reveals substantial heterogeneity, where lower-ranked players exit rapidly while elite players sustain careers into their thirties. These patterns suggest that retirement decisions are driven significantly by an information-updating process regarding competitive fit, distinct from pure age-related physical decline.</span>
+  <p>I am happy to connect and talk about research, collaborations, or graduate school.</p>
 
-## Policy and Media
-
-- April 2026: [White Book with Alleanza per Torino on Turin as a University City](https://www.alleanzapertorino.it/wp-content/uploads/2026/04/APT_UniversitaWhiteBook_WEB.pdf)
-- February 2018: [Tackling Italy's productivity slowdown (Il Sole 24 Ore)](https://www.ilsole24ore.com/art/hackitalia-vincitori-ma-e-incentivi-l-industria-40-AEWC8O6D)
-
-{% include_relative _includes/services.md %}
+  <div class="contact-details">
+    <p><strong>European University Institute, Department of Economics</strong><br>Via delle Fontanelle 18<br>50014 Fiesole, Italy</p>
+    <p><a class="text-link" href="mailto:guido.bongioanni@eui.eu">guido.bongioanni@eui.eu <span aria-hidden="true">→</span></a></p>
+  </div>
+</section>

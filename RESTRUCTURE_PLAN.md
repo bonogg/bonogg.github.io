@@ -1,4 +1,4 @@
-# Site Restructuring Plan — bonogg.github.io
+# Site Restructuring Plan - bonogg.github.io
 
 Goal
 - Make the site structure clearer and easier to maintain by:
