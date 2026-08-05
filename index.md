@@ -26,30 +26,18 @@ title: Home
 
   <div class="teaching-list">
     <article class="teaching-item">
-      <div>
-        <h3>Mini Course on Two Period Models in Macro</h3>
-        <p>Summer School, European University Institute</p>
-        <p class="teaching-item__role">Main Instructor</p>
-      </div>
-      <p class="teaching-item__date">Summers 2024, 2025, 2026</p>
+      <p class="teaching-item__course"><strong>European University Institute — Mini Course on Two Period Models in Macro</strong> <em>(Summer School).</em></p>
+      <p class="teaching-item__details"><em>Main Instructor. Summers 2024, 2025, and 2026.</em></p>
     </article>
 
     <article class="teaching-item">
-      <div>
-        <h3>Simulation-Based Econometrics</h3>
-        <p>Graduate core, European University Institute</p>
-        <p class="teaching-item__role">Teaching Assistant for Professor Russell Cooper</p>
-      </div>
-      <p class="teaching-item__date">Spring 2024</p>
+      <p class="teaching-item__course"><strong>European University Institute — Simulation-Based Econometrics</strong> <em>(Graduate Core).</em></p>
+      <p class="teaching-item__details"><em>Teaching Assistant for Professor Russell Cooper. Spring 2024.</em></p>
     </article>
 
     <article class="teaching-item">
-      <div>
-        <h3>Econometrics</h3>
-        <p>Undergraduate, NYU Florence</p>
-        <p class="teaching-item__role">Teaching Assistant for Professor Giampiero Gallo</p>
-      </div>
-      <p class="teaching-item__date">Fall 2023</p>
+      <p class="teaching-item__course"><strong>NYU Florence — Econometrics</strong> <em>(Undergraduate).</em></p>
+      <p class="teaching-item__details"><em>Teaching Assistant for Professor Giampiero Gallo. Fall 2023.</em></p>
     </article>
   </div>
 </section>
