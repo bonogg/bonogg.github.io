@@ -20,6 +20,40 @@ title: Home
   </article>
 </section>
 
+<section class="home-section" id="teaching" aria-labelledby="teaching-heading">
+  <p class="eyebrow">Teaching</p>
+  <h2 id="teaching-heading">Teaching experience</h2>
+
+  <div class="teaching-list">
+    <article class="teaching-item">
+      <div>
+        <h3>Mini Course on Two Period Models in Macro</h3>
+        <p>Summer School, European University Institute</p>
+        <p class="teaching-item__role">Main Instructor</p>
+      </div>
+      <p class="teaching-item__date">Summers 2024, 2025, 2026</p>
+    </article>
+
+    <article class="teaching-item">
+      <div>
+        <h3>Simulation-Based Econometrics</h3>
+        <p>Graduate core, European University Institute</p>
+        <p class="teaching-item__role">Teaching Assistant for Professor Russell Cooper</p>
+      </div>
+      <p class="teaching-item__date">Spring 2024</p>
+    </article>
+
+    <article class="teaching-item">
+      <div>
+        <h3>Econometrics</h3>
+        <p>Undergraduate, NYU Florence</p>
+        <p class="teaching-item__role">Teaching Assistant for Professor Giampiero Gallo</p>
+      </div>
+      <p class="teaching-item__date">Fall 2023</p>
+    </article>
+  </div>
+</section>
+
 <section class="home-section" id="policy-media" aria-labelledby="policy-heading">
   <p class="eyebrow">Policy &amp; media</p>
   <h2 id="policy-heading">Public-facing work</h2>
