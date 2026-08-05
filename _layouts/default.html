@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include meta.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <script defer src="{{ '/assets/js/main.js' | relative_url }}"></script>
+  </head>
+  <body>
+    {% include header.html %}
+    <main class="site-main container">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

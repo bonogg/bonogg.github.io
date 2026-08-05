@@ -1,0 +1,21 @@
+@import "variables";
+@import "mixins";
+@import "components/header";
+@import "components/cards";
+
+body {
+  font-family: $body-font;
+  color: #222;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.site-header { background: $brand-color; color: #fff; padding: 1rem 0; }
+.site-title a { color: #fff; text-decoration: none; }
+
+.hero { padding: 3rem 0; text-align: center; }
